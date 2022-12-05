@@ -1,0 +1,123 @@
+.body {
+  
+ 
+  font-family: arial;
+  
+}
+
+body {
+   background: #e7dce1;
+   font-family: arial;
+}
+
+.container {
+   width: 900px;
+   
+   display: block;
+   margin: auto;
+}
+
+body h1 {
+   position: relative;
+   left: 210px;
+   font-size: 300%;
+   color:  #3c3131;
+}
+
+.square1 {
+   position: relative;
+   left: 0px;
+   top: 100px;
+   width: 250px;
+   height: 250px;
+   background-color: rgb(255, 255, 255);
+   box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75), 
+              20px 20px 10px 0px rgba(0,0,0,0.5);
+}
+
+.square1 img{
+  width: 250px;
+}
+
+
+.square2 {
+   position: relative;
+   top: 100px;
+   width: 250px;
+   height: 250px;
+   background-color: rgb(255, 255, 255);
+   box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75), 
+              20px 20px 10px 0px rgba(0,0,0,0.5);
+}
+
+
+.square2 img{
+   width: 250px;
+ }
+
+
+ .text  {
+   position: relative;
+   left: 0px;
+   font-variant-position: normal;
+
+ }
+
+ .reb {
+   position: absolute;
+   left: 50px;
+   margin-top: 1px;
+   font-size: 20px;
+   color: #e7dce1;
+   
+
+ }
+
+
+
+
+ .ber {
+   position: absolute;
+   left: 60px;
+   margin-top: 1px;
+   font-size: 20px;
+   color: #ffffff;
+   
+ }
+
+
+ .dood {
+   position: absolute;
+   width: 900px;
+   height: 350px;
+   margin-top: 430px;
+   background: rgb(255, 253, 253);
+   box-shadow: 5px 5px 3px 0px rgba(0,0,0,0.75), 
+              10px 10px 5px 0px rgba(0,0,0,0.5);
+   
+ }
+ .dood h4 {
+   position: relative;
+   left: 30px;
+   text-decoration: underline;
+   font-size: 20px;
+ }
+
+ .dood ul,li {
+   font-size: 30px;
+
+ 
+ }
+
+ .dood p {
+   position: absolute;
+   left: 25px;
+   font-size: 24px;
+   
+ }
+
+
+
+
+
+
